@@ -15,16 +15,16 @@
 	"nodes":[
 		{
 			"mesh":0,
-			"name":"Text",
+			"name":"Text.003",
 			"scale":[
-				0.45871567726135254,
+				0.4587157070636749,
 				8,
 				1
 			],
 			"translation":[
-				-0.0017123222351074219,
-				0.8489677906036377,
-				0.028259368613362312
+				-0.0017118453979492188,
+				0.28896793723106384,
+				0.028259389102458954
 			]
 		},
 		{
@@ -32,7 +32,7 @@
 				0
 			],
 			"mesh":1,
-			"name":"nextButton",
+			"name":"nextButton.001",
 			"rotation":[
 				0.70710688829422,
 				0,
@@ -41,7 +41,7 @@
 			],
 			"scale":[
 				2.179999589920044,
-				0.1250000149011612,
+				0.125,
 				1
 			],
 			"translation":[
@@ -54,7 +54,7 @@
 	"materials":[
 		{
 			"doubleSided":true,
-			"name":"Beige",
+			"name":"Beige.003",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.9646856188774109,
@@ -68,7 +68,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Red",
+			"name":"Red.001",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.5583406090736389,
@@ -83,7 +83,7 @@
 	],
 	"meshes":[
 		{
-			"name":"Text.004",
+			"name":"Text.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -97,7 +97,7 @@
 			]
 		},
 		{
-			"name":"Cube.002",
+			"name":"Cube.003",
 			"primitives":[
 				{
 					"attributes":{
