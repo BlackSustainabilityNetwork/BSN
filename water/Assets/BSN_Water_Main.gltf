@@ -3,10 +3,6 @@
 		"generator":"Khronos glTF Blender I/O v3.6.28",
 		"version":"2.0"
 	},
-	"extensionsUsed":[
-		"KHR_materials_transmission",
-		"KHR_materials_ior"
-	],
 	"scene":0,
 	"scenes":[
 		{
@@ -491,28 +487,6 @@
 				],
 				"metallicFactor":0
 			}
-		},
-		{
-			"doubleSided":true,
-			"extensions":{
-				"KHR_materials_transmission":{
-					"transmissionFactor":1
-				},
-				"KHR_materials_ior":{
-					"ior":1.3329999446868896
-				}
-			},
-			"name":"Water",
-			"pbrMetallicRoughness":{
-				"baseColorFactor":[
-					0.24986477196216583,
-					0.6259680390357971,
-					0.8000000715255737,
-					1
-				],
-				"metallicFactor":0,
-				"roughnessFactor":0
-			}
 		}
 	],
 	"meshes":[
@@ -767,7 +741,7 @@
 						"TEXCOORD_0":76
 					},
 					"indices":77,
-					"material":13
+					"material":11
 				}
 			]
 		}
