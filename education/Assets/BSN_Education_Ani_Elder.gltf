@@ -455,9 +455,9 @@
 			"name":"Material.007",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
-					0.6080291271209717,
-					0.3983749747276306,
-					0.8000000715255737,
+					0.1529259979724884,
+					0.005605233833193779,
+					0.31854674220085144,
 					1
 				],
 				"metallicFactor":0,
@@ -503,62 +503,6 @@
 				],
 				"metallicFactor":0,
 				"roughnessFactor":0.5
-			}
-		},
-		{
-			"doubleSided":true,
-			"name":"SVGMat",
-			"pbrMetallicRoughness":{
-				"baseColorFactor":[
-					0,
-					0,
-					0,
-					1
-				],
-				"metallicFactor":0,
-				"roughnessFactor":0.4000000059604645
-			}
-		},
-		{
-			"doubleSided":true,
-			"name":"SVGMat.001",
-			"pbrMetallicRoughness":{
-				"baseColorFactor":[
-					0,
-					0,
-					0,
-					1
-				],
-				"metallicFactor":0,
-				"roughnessFactor":0.4000000059604645
-			}
-		},
-		{
-			"doubleSided":true,
-			"name":"SVGMat.002",
-			"pbrMetallicRoughness":{
-				"baseColorFactor":[
-					0,
-					0,
-					0,
-					1
-				],
-				"metallicFactor":0,
-				"roughnessFactor":0.4000000059604645
-			}
-		},
-		{
-			"doubleSided":true,
-			"name":"SVGMat.003",
-			"pbrMetallicRoughness":{
-				"baseColorFactor":[
-					0,
-					0,
-					0,
-					1
-				],
-				"metallicFactor":0,
-				"roughnessFactor":0.4000000059604645
 			}
 		},
 		{
@@ -797,7 +741,7 @@
 						"TEXCOORD_0":55
 					},
 					"indices":56,
-					"material":4
+					"material":0
 				}
 			]
 		},
@@ -811,7 +755,7 @@
 						"TEXCOORD_0":59
 					},
 					"indices":60,
-					"material":5
+					"material":0
 				}
 			]
 		},
@@ -825,7 +769,7 @@
 						"TEXCOORD_0":63
 					},
 					"indices":64,
-					"material":6
+					"material":0
 				}
 			]
 		},
@@ -839,7 +783,7 @@
 						"TEXCOORD_0":67
 					},
 					"indices":68,
-					"material":7
+					"material":0
 				}
 			]
 		},
@@ -853,7 +797,7 @@
 						"TEXCOORD_0":71
 					},
 					"indices":72,
-					"material":8
+					"material":4
 				},
 				{
 					"attributes":{
@@ -862,7 +806,7 @@
 						"TEXCOORD_0":75
 					},
 					"indices":76,
-					"material":8
+					"material":4
 				}
 			]
 		},
